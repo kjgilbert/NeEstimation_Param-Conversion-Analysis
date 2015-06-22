@@ -1,0 +1,5 @@
+Scripts used to grep text outputs from various analysis programs, or to perform the necessary post-hoc analyses to obtain the estimate of Ne.
+
+“GrepTMVP_Results.R” uses MC_Script_AnalyzeTMVP.R which was acquired from Stuart Barker, as used in his 2011 Mol. Ecol. paper to analyze TMVP outputs. (see comments in file)
+
+“AnalyzeOnesampOutput.R” uses both loc2plot.r and make_pd.r to perform its post-hoc analyses, and only analyzes one file at a time, while all the other grep scripts can be used on as many files at a time as provided in the list of files.

@@ -1,0 +1,1 @@
+These scripts are NOT OPTIMIZED, so they can be quite slow, but were used to sample 250 individuals from the resultant populations out of nemo simulations. They also sample only 40 loci, out of the many that were simulated, and ensure that the loci sampled are polymorphic.
