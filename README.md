@@ -1,4 +1,4 @@
-This code accompanies the [data stored on Dryad](http://datadryad.org/resource/doi:10.5061/dryad.3r651) for Gilbert and Whitlock (*In press*) [Evaluating methods for estimating local effective population size with and without migration]. *Evolution*.()
+This code accompanies the [data stored on Dryad](http://datadryad.org/resource/doi:10.5061/dryad.3r651) for Gilbert and Whitlock (*In press*) [Evaluating methods for estimating local effective population size with and without migration](). *Evolution*.
 
 See the Readme files contained within each subfolder. 
 
